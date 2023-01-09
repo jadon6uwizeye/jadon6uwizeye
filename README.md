@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jadon6uwizeye
-- 👀 I’m interested in Fullstack development with Python-Django, Javscript, and Flutter among others
+- 👀 I’m interested in Fullstack development with Python-Django, Javscript,C#, and Flutter among others
 - 🌱 I’m currently Working for Techaffinity as a full time software engineer and learning Machine learning
 - 💞️ I’m looking to collaborate on any project as work or help
 - 📫 How to reach me 
